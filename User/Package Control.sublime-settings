@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Package Control",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeREPL",
+		"WakaTime"
+	]
+}
