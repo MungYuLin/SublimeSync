@@ -1,5 +1,0 @@
-[
-    { "keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"} },
-    { "keys": ["ctrl+shift+f10"], "command": "build", "args": {"variant": "Run"} },
-    { "keys": ["ctrl+shift+x"], "command": "toggle_comment", "args": { "block": true } },
-]
