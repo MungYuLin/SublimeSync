@@ -7,24 +7,21 @@
 	[
 		"Alignment",
 		"AutoFileName",
+		"Autoprefixer",
 		"BracketHighlighter",
 		"Codecs33",
 		"ConvertToUTF8",
 		"CSScomb",
 		"DocBlockr",
 		"Emmet",
-		"Git",
-		"HTML-CSS-JS Prettify",
-		"jQuery",
-		"jQuery Snippets pack",
 		"JsFormat",
 		"Material Theme",
-		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"sublimelint",
 		"SublimeLinter",
-		"SublimeREPL",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
 		"Tag"
 	]
 }
