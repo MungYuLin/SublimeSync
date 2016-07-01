@@ -11,16 +11,17 @@
 		"BracketHighlighter",
 		"Codecs33",
 		"ConvertToUTF8",
+		"CSS Format",
 		"CSScomb",
 		"DocBlockr",
 		"Emmet",
 		"JsFormat",
 		"Material Theme",
+		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
-		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"Tag"
 	]
